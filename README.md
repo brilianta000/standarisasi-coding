@@ -36,8 +36,8 @@ tests/     → unit test
 
 ## 👤 Author
 
-- Nama: [Nama Anda]
-- NIM: [NIM Anda]
+- Nama: Idea Brilianta
+- NIM: E41251668
 
 ## 📝 Catatan
 
